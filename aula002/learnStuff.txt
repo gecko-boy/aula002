@@ -10,3 +10,7 @@ id = identificar o elemento
 
 http:// "hyper text transfer protocol"
 url -> unique resource locator
+
+<br> <- quebra a linha forçadamente´
+
+<b> bold </b>
