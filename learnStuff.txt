@@ -1,0 +1,12 @@
+<a href= é para ir buscar links >
+
+scr = ir buscar ficheiros (imagens)
+
+id = identificar o elemento
+
+<h1> cabeçalho </h1>
+
+<p> parágrafo </p>
+
+http:// "hyper text transfer protocol"
+url -> unique resource locator
